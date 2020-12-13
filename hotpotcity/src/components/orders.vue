@@ -75,7 +75,7 @@
         orderlist: [],
         inputsearch: '',
         // 查看详情需要的参数
-        isShowOrderDetail: true,
+        isShowOrderDetail: false,
         orderDetailData: []
       }
     },
